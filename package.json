@@ -1,0 +1,22 @@
+{
+  "name": "sassportfolio",
+  "version": "1.0.0",
+  "description": "Sass Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ -- recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/chrisricola/sassPortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisricola/sassPortfolio/issues"
+  },
+  "homepage": "https://github.com/chrisricola/sassPortfolio#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
